@@ -12,7 +12,7 @@ function lovetime() {
     var todayHour = today.getHours()
     var todayMinute = today.getMinutes()
     var todaySecond = today.getSeconds()
-    var t1 = Date.UTC(2022, 08, 11, 02, 02, 33)
+    var t1 = Date.UTC(2022, 08, 12, 02, 02, 33)
     var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond)
     var diff = t2 - t1
     var diffYears = Math.floor(diff / years)
