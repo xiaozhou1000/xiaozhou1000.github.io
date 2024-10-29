@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 0;
+    }
+
+  .container {
+      width: 80%;
+      margin: auto;
+      background-color: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+    h1 {
+      color: #333;
+      font-size: 28px;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    p {
+      color: #666;
+      font-size: 16px;
+      line-height: 1.5;
+      text-indent: 2em; /* 添加首行缩进 */
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>风止意难平</h1>
+    <p>风，悄然止住，然而那心中的意，却如涟漪般，久久难以平静。它像是一首未终的乐章，在寂静的时光里，依旧回响在心底的深处。
+        或许是那曾经错过的美好，在风停的瞬间，愈发清晰地浮现于脑海，成为心中一抹无法释怀的遗憾。
+    </p>
+    <p>又或许是那未竟的梦想，如同被风短暂吹散的云朵，风止后，又沉甸甸地压在心头，让人难以忘却那份执着与不甘。
+        风止意难平，是生活中那些无法言说的情愫，是岁月里沉淀下来的感慨与眷恋。它让我们在喧嚣过后，静静地审视自己的内心，
+        发现那些被时间掩埋，却依然炽热的情感角落。
+    </p>
+    <p>在这看似平静的表象下，涌动着的是对过往的怀念，对未来的期许，
+        以及对生活无尽的思索。它如同一颗种子，在心底生根发芽，提醒着我们，生命中的每一段经历，
+        都有着独特的意义，即使风已止，那份意，也将永远伴随着我们，成为我们成长与前行的力量。
+    </p>
+  </div>
+</body>
+
+</html>
